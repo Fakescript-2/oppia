@@ -198,7 +198,7 @@
     "leaflet": "^1.4.0",
     "linkedom": "^0.18.3",
     "lodash": "^4.17.14",
-    "mathjs": "^9.0.0",
+    "mathjs": "^14.4.0",
     "messageformat": "^2.3.0",
     "midi": "git+https://github.com/oppia/miDI.js#c26eb",
     "mousetrap": "^1.6.5",
