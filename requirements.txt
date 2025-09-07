@@ -159,7 +159,7 @@ cloudpickle==2.2.1 \
 crcmod==1.7 \
     --hash=sha256:dc7051a0db5f2bd48665a990d3ec1cc305a466a77358ca4492826f41f283601e
     # via apache-beam
-deepdiff==5.8.1 \
+deepdiff==8.6.1 \
     --hash=sha256:8d4eb2c4e6cbc80b811266419cb71dd95a157094a3947ccf937a94d44943c7b8 \
     --hash=sha256:e9aea49733f34fab9a0897038d8f26f9d94a97db1790f1b814cced89e9e0d2b7
     # via -r requirements.in
