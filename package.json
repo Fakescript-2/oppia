@@ -199,7 +199,7 @@
     "linkedom": "^0.18.3",
     "lodash": "^4.17.14",
     "mathjs": "^9.0.0",
-    "messageformat": "^2.3.0",
+    "messageformat": "^4.0.0",
     "midi": "git+https://github.com/oppia/miDI.js#c26eb",
     "mousetrap": "^1.6.5",
     "nerdamer": "^1.1.4",
