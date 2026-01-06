@@ -184,7 +184,7 @@
     "default-passive-events": "^2.0.0",
     "dequeue": "^1.0.5",
     "diff_match_patch": "^0.1.1",
-    "fabric": "^4.1.0",
+    "fabric": "^5.0.0",
     "firebase": "^8.10.0",
     "gif-frames": "^1.0.1",
     "gifshot": "^0.4.5",
